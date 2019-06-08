@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool_wr"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.jl.coolwr.db.Province" />
+        <mapping class="com.jl.coolwr.db.City" />
+        <mapping class="com.jl.coolwr.db.Country" />
+    </list>
+</litepal>
